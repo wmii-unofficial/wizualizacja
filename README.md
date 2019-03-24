@@ -1,2 +1,2 @@
 # wizualizacja
-Przykładowe rozwiązania wizualizacji danych
+Przykładowe rozwiązania zadań z wizualizacji danych
