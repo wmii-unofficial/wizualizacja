@@ -2,6 +2,8 @@ class Samogloski:
     def __init__(self, data):
         self.data = data
         self.index = -1
+        if not isinstance(data, str):
+            raise TypeError("lol, nie")
 
     def __iter__(self):
         return self
